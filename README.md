@@ -2,9 +2,9 @@
 A Python script that allows you to access webpages through Google Classroom's class message board.
 
 ## How does it work?
-Based on a series of "commands", students can interact with the teacher, which will answer with whatever has been requested attached to the response. This allows, for example, to search Google, all without leaving Classroom. For documentation on all commands, see ![src/messages/help.txt](https://github.com/Javgarag/gclassroom-search-engine/src/messages/help.txt).
+Based on a series of "commands", students can interact with the teacher, which will answer with whatever has been requested attached to the response. This allows, for example, to search Google, all without leaving Classroom. For documentation on all commands, see ![src/messages/help.txt](https://github.com/Javgarag/gclassroom-search-engine/blob/main/src/messages/help.txt).
 
-![](https://raw.githubusercontent.com/Javgarag/gclassroom-search-engine/refs/heads/master/images/search.jpg)
+![](https://raw.githubusercontent.com/Javgarag/gclassroom-search-engine/refs/heads/main/images/search.jpg)
 
 *Note that, since webpages are attached as PDF files, they are non-interactable, though links on buttons can still be copied and retrieved with the 'get' command.*
 
