@@ -1,0 +1,4 @@
+__pycache__/
+.temp/
+client_file.json
+token.json

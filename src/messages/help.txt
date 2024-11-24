@@ -1,0 +1,13 @@
+To use the search engine, you have to enter commands on the bulletin board. Commands are case-insensitive. Valid commands:
+
+- help: Displays this text.
+
+- ping: Sends a message to check execution status.
+
+- search {SEARCH_TYPE} [TEXT]: Searches Google for the entered text and uploads it to the tab in PDF format. Valid search types: 'images' or 'videos'. Not including the type will result in a plain text search.
+
+- get [URL]: Visits the specified web page and uploads it to Google Drive in PDF format. Also works for downloading PDF files, such as books or written documents.
+
+- youtube [VIDEO]/ yt [VIDEO]: Download a video from Youtube and upload it to Google Drive in mp4 format.
+
+- destroy [PWD]: Delete the class completely. Password required.
