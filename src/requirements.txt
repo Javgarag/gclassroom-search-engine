@@ -1,0 +1,6 @@
+google_api_python_client==2.111.0
+google_auth_oauthlib==1.2.0
+protobuf==5.28.3
+pyppeteer==2.0.0
+pytubefix==8.5.1
+wget==3.2
